@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mqtt": "^4.2.8"
+    "dotenv": "^10.0.0",
+    "mariadb": "^2.5.4",
+    "mqtt": "^4.2.8",
+    "uuid": "^8.3.2"
   }
 }
